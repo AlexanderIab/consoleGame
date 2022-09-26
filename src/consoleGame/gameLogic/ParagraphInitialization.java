@@ -1,5 +1,8 @@
 package consoleGame.gameLogic;
 
+/**
+ * @author Alexander Iablonski
+ * */
 public class ParagraphInitialization {
         Paragraph LookForLittleSquirrelAlone = new Paragraph("""
                 Лисёнок слишком долго плутал по лесу в поисках друга и сам не заметил,

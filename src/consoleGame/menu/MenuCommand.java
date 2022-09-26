@@ -1,5 +1,8 @@
 package consoleGame.menu;
 
+/**
+ * @author Alexander Iablonski
+ * */
 public class MenuCommand {
     private final Command newGame;
     private final Command loadGame;

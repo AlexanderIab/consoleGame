@@ -2,6 +2,9 @@ package consoleGame;
 
 import consoleGame.gameLogic.RunGame;
 
+/**
+ * @author Alexander Iablonski
+ * */
 public class Application {
     public static void main(String[] args) {
 

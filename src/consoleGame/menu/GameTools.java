@@ -6,6 +6,9 @@ import consoleGame.gameLogic.RunGame;
 
 import java.io.*;
 
+/**
+ * @author Alexander Iablonski
+ * */
 public class GameTools {
 
     public void newGame() {

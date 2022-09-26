@@ -2,6 +2,9 @@ package consoleGame.gameLogic;
 
 import java.io.Serializable;
 
+/**
+* @author Alexander Iablonski
+* */
 public class Paragraph implements Serializable {
     private final String textIntro;
     private Paragraph paragraph1;

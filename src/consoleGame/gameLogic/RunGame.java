@@ -5,6 +5,9 @@ import consoleGame.menu.GameTools;
 
 import java.util.Scanner;
 
+/**
+ * @author Alexander Iablonski
+ * */
 public class RunGame {
     GameMenu gameMenu = new GameMenu();
     GameTools gameTools = new GameTools();

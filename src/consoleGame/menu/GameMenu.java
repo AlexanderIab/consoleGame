@@ -2,6 +2,9 @@ package consoleGame.menu;
 
 import java.util.Scanner;
 
+/**
+ * @author Alexander Iablonski
+ * */
 public class GameMenu {
     GameTools game = new GameTools();
     Command newG = game::newGame;
